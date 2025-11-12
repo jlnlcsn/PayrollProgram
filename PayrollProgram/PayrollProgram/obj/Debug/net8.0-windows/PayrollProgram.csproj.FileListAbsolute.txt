@@ -1,0 +1,17 @@
+C:\Users\Juliana Lacsina\source\repos\PayrollProgram\PayrollProgram\bin\Debug\net8.0-windows\PayrollProgram.exe
+C:\Users\Juliana Lacsina\source\repos\PayrollProgram\PayrollProgram\bin\Debug\net8.0-windows\PayrollProgram.deps.json
+C:\Users\Juliana Lacsina\source\repos\PayrollProgram\PayrollProgram\bin\Debug\net8.0-windows\PayrollProgram.runtimeconfig.json
+C:\Users\Juliana Lacsina\source\repos\PayrollProgram\PayrollProgram\bin\Debug\net8.0-windows\PayrollProgram.dll
+C:\Users\Juliana Lacsina\source\repos\PayrollProgram\PayrollProgram\bin\Debug\net8.0-windows\PayrollProgram.pdb
+C:\Users\Juliana Lacsina\source\repos\PayrollProgram\PayrollProgram\obj\Debug\net8.0-windows\PayrollProgram.Form1.resources
+C:\Users\Juliana Lacsina\source\repos\PayrollProgram\PayrollProgram\obj\Debug\net8.0-windows\PayrollProgram.csproj.GenerateResource.cache
+C:\Users\Juliana Lacsina\source\repos\PayrollProgram\PayrollProgram\obj\Debug\net8.0-windows\PayrollProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana Lacsina\source\repos\PayrollProgram\PayrollProgram\obj\Debug\net8.0-windows\PayrollProgram.AssemblyInfoInputs.cache
+C:\Users\Juliana Lacsina\source\repos\PayrollProgram\PayrollProgram\obj\Debug\net8.0-windows\PayrollProgram.AssemblyInfo.cs
+C:\Users\Juliana Lacsina\source\repos\PayrollProgram\PayrollProgram\obj\Debug\net8.0-windows\PayrollProgram.csproj.CoreCompileInputs.cache
+C:\Users\Juliana Lacsina\source\repos\PayrollProgram\PayrollProgram\obj\Debug\net8.0-windows\PayrollProgram.dll
+C:\Users\Juliana Lacsina\source\repos\PayrollProgram\PayrollProgram\obj\Debug\net8.0-windows\refint\PayrollProgram.dll
+C:\Users\Juliana Lacsina\source\repos\PayrollProgram\PayrollProgram\obj\Debug\net8.0-windows\PayrollProgram.pdb
+C:\Users\Juliana Lacsina\source\repos\PayrollProgram\PayrollProgram\obj\Debug\net8.0-windows\PayrollProgram.genruntimeconfig.cache
+C:\Users\Juliana Lacsina\source\repos\PayrollProgram\PayrollProgram\obj\Debug\net8.0-windows\ref\PayrollProgram.dll
+C:\Users\Juliana Lacsina\source\repos\PayrollProgram\PayrollProgram\obj\Debug\net8.0-windows\PayrollProgram.Form2.resources
